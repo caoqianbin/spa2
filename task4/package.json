@@ -1,0 +1,20 @@
+{
+  "name": "task3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt": "^1.1.0",
+    "grunt-htmlhint": "^0.9.13",
+    "grunt-eslint": "^22.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
